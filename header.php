@@ -4,7 +4,7 @@
 <html lang='en-US'>
 <head>
 	<meta charset='UTF-8'>
-	<title>Vichjemon Enterprise<title>
+	<title>Vichjemon Enterprise</title>
 	<link rel='stylesheet' href='style.css'>
 	<link rel='icon' href="favicon.ico">
 	<link href="https:fonts.googleapis.comcss2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
